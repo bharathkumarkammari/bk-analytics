@@ -1,6 +1,6 @@
 <!-- Hero Top Image -->
 <p align="center">
-  <img src="https://github.com/bharathkumarkammari/bharathkumarkammari/blob/main/my-avatar.png" height="250" />
+  <img src="https://github.com/bharathkumarkammari/bk-analytics/blob/main/my-avatar.png" height="250" />
 </p>
 
 <!-- Hero Title -->
@@ -12,7 +12,7 @@
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+clear+insights;Building+beautiful+dashboards+with+Tableau+%26+Power+BI">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+clear+insights;Building+beautiful+dashboards+with+Tableau+%26+Power+BI">
   </a>
 </p>
 
