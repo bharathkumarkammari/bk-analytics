@@ -12,7 +12,7 @@
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+clear+insights;Building+beautiful+dashboards+with+Tableau+%26+Power+BI;Automating+analytics+workflows+with+Python+%7C+SQL">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+clear+insights;Building+beautiful+dashboards+with+Tableau+%26+Power+BI">
   </a>
 </p>
 
