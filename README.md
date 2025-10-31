@@ -1,6 +1,6 @@
 <!-- Hero Top Image -->
 <p align="center">
-  <img src="https://github.com/bharathkumarkammari/bharathkumarkammari/blob/main/assets/header.png" height="250" />
+  <img src="https://github.com/bharathkumarkammari/bharathkumarkammari/blob/main/my-avatar.png" height="250" />
 </p>
 
 <!-- Hero Title -->
