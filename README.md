@@ -40,18 +40,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
-<!-- GitHub Stats -->
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumarkammari&theme=tokyonight_duo" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathkumarkammari&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarkammari&layout=compact&theme=tokyonight" height="180px" />
-</p>
-
 <!-- Connect with Me -->
 ### 🤝 Connect With Me
 
